@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Welcome to My World");
 
         System.out.println("Perpose these Changes in line 9 - Somebody Updated these changes.");
+
+        System.out.println("Added Change 1 By Jarnail");
+        System.out.println("Added Change 2 By Jarnail");
     }
 }
